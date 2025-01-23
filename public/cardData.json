@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Python Basics",
+    "description": "Get started with Python programming, covering syntax, variables, and data types.",
+    "videoSrc": "https://assets.mixkit.co/videos/39875/39875-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?python,code",
+    "category": "languages",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Essentials",
+    "description": "An introduction to JavaScript syntax, DOM manipulation, and basic debugging.",
+    "videoSrc": "https://assets.mixkit.co/videos/34562/34562-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?javascript,code",
+    "category": "languages",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 3,
+    "title": "Understanding Data Structures",
+    "description": "Learn about arrays, linked lists, stacks, queues, and efficient data handling.",
+    "videoSrc": "https://assets.mixkit.co/cu5afz875j5pk1j1y0ozr3prafdz",
+    "thumbnail": "https://source.unsplash.com/featured/?data,structures",
+    "category": "software",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 4,
+    "title": "Mastering Algebra",
+    "description": "Review fundamental algebraic concepts such as linear equations and factoring.",
+    "videoSrc": "https://assets.mixkit.co/videos/1192/1192-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?algebra,math",
+    "category": "math",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 5,
+    "title": "Building a Web App with React",
+    "description": "Explore the basics of React, from components and props to state management.",
+    "videoSrc": "https://assets.mixkit.co/videos/1196/1196-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?react,web",
+    "category": "software",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 6,
+    "title": "CSS Grid and Flexbox",
+    "description": "Delve into modern CSS layout techniques and responsive design patterns.",
+    "videoSrc": "https://assets.mixkit.co/videos/34376/34376-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?css,web",
+    "category": "software",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 7,
+    "title": "Calculus Fundamentals",
+    "description": "Introduction to limits, derivatives, and integrals for beginner calculus students.",
+    "videoSrc": "https://assets.mixkit.co/videos/34504/34504-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?calculus,math",
+    "category": "math",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 8,
+    "title": "Intro to French Language",
+    "description": "Basic vocabulary, greetings, and grammar rules for beginner French learners.",
+    "videoSrc": "https://assets.mixkit.co/videos/34376/34376-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?french,language",
+    "category": "languages",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 9,
+    "title": "Software Architecture Basics",
+    "description": "High-level design principles, architectural patterns, and best practices.",
+    "videoSrc": "https://assets.mixkit.co/videos/34504/34504-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?software,architecture",
+    "category": "software",
+    "liked": false,
+    "saved": false
+  },
+  {
+    "id": 10,
+    "title": "Number Theory for Beginners",
+    "description": "Explore prime numbers, modular arithmetic, and fundamental number theory concepts.",
+    "videoSrc": "https://assets.mixkit.co/videos/34504/34504-720.mp4",
+    "thumbnail": "https://source.unsplash.com/featured/?number,theory",
+    "category": "math",
+    "liked": false,
+    "saved": false
+  }
+]
